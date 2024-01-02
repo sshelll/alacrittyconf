@@ -1,6 +1,6 @@
 import = [
     # "~/.config/alacritty/themes/themes/tokyo-night-storm.toml"
-    "~/.config/alacritty/themes/themes/github_light.toml"
+    "~/.config/alacritty/themes/themes/tokyo-night-storm.toml"
 ]
 
 live_config_reload = true
@@ -36,3 +36,7 @@ mods = "Alt"
 chars = "\u001Bf"
 key = "Right"
 mods = "Alt"
+
+[cursor.style]
+shape = "Block"
+blinking = "Off"
