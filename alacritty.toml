@@ -39,3 +39,6 @@ mods = "Alt"
 [cursor.style]
 shape = "Block"
 blinking = "Off"
+
+[cursor]
+vi_mode_style.shape = "Block"
